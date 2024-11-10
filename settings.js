@@ -3,22 +3,22 @@ const chalk = require('chalk')
 
 //contact details
 global.ownernomer = "50943764765"
-global.ownername = "🌹⃟⃢👑 ĐÆ𝚪𝐊༒𝙎-𝙏𝞢𝞜🌹⃟⃢👑"
-global.ytname = "DRK_ST_Tech"
+global.ownername = "🌹⃟⃢👑 demon🌹⃟⃢👑"
+global.ytname = "demon"
 global.socialm = "GitHub: DRK-S-TEN"
 global.location = "America, Haiti, Port-au-Prince"
 
 global.ownernumber = '50943764765'  //creator number
 global.ownername = '𝙎-𝙏𝞢𝞜' //owner name
-global.botname = 'DRK_ST_BUG' //name of the bot
+global.botname = 'demon_BUG_tda' //name of the bot
 
 //sticker details
 global.packname = '🗾'
-global.author = '𝙎-𝙏𝞢𝞜'
+global.author = 'demon'
 
 //console view/theme
 global.themeemoji = '🗾'
-global.wm = "𝙎-𝙏𝞢𝞜"
+global.wm = "demon"
 
 //theme link
 global.link = 'https://whatsapp.com/channel/0029Vakp0UnICVfe3I2Fe72w'
